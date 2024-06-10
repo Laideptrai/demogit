@@ -1,0 +1,6 @@
+// câu lệnh để thư viện hoạt động
+{
+    "presets":[
+        "@babel/preset-env"
+    ]
+}
